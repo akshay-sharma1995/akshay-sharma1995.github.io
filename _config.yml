@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Akshay Sharma"
-  avatar           : /files/COVER-01.jpeg
+  avatar           : COVER-01.jpeg
   bio              : "Recent graduate from CMU"
   location         : "Pittsburgh, PA"
   employer         :
@@ -97,6 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "akshay-sharma1995"
+  gitlab           : "akshaysh"
   google_plus      :
   keybase          :
   instagram        :
