@@ -1,6 +1,8 @@
 ---
 title: "Analysis and Comparison of generative models for Optical Flow Estimation"
 excerpt: "AI and ML for Engineers course project, Carnegie Mellon University"
+header:
+        teaser: GAN_optical_flow.png
 permalink: /projects/04_let_it_flow
 collection: projects
 ---

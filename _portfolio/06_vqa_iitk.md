@@ -1,6 +1,8 @@
 ---
 title: "Visual Question Answering"
 excerpt: "Introduction to Natural Language Processing course project, IIT Kanpur, India"
+header:
+        teaser: nlp_project.png
 permalink: /projects/06_vqa_iitk
 collection: projects
 ---

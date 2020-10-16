@@ -1,6 +1,8 @@
 ---
 title: "Query network based limited guidance for RL agents"
 excerpt: "MS Thesis, Carnegie Mellon University"
+header:
+        teaser: query_net_training_arch.png
 permalink: /projects/03_ms_thesis
 collection: projects
 ---

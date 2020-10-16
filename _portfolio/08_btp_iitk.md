@@ -1,6 +1,8 @@
 ---
 title: "Controllable Tennis Ball launching machine"
 excerpt: "B.Tech Project, IIT Kanpur, India"
+header:
+        teaser: btp_tennis_machine.png
 permalink: /projects/08_btp_iitk
 collection: projects
 ---

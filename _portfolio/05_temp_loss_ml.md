@@ -1,6 +1,8 @@
 ---
 title: "Unsupervised Optical Flow Estimation with temporal smoothing"
 excerpt: "Machine Learning for Engineers course project, Carnegie Mellon University"
+header:
+        teaser: temporal_loss.png
 permalink: /projects/05_temp_loss_ml
 collection: projects
 ---

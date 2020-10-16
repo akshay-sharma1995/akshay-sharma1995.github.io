@@ -1,6 +1,8 @@
 ---
 title: "Vision based active target tracking"
 excerpt: "Autonomous Navigation course project, IIT Kanpur, India"
+header:
+        teaser: rsnn_target_tracking.png
 permalink: /projects/07_active_target_tracking
 collection: projects
 ---
