@@ -7,6 +7,8 @@ permalink: /projects/03_ms_thesis
 collection: projects
 ---
 Advisor: Prof. Katia Sycara, School of Computer Science, Carnegie Mellon University
+### System Overview:
+![System Overview](/images/query_net_training_arch.png){:height="20%" width="100%"}
 * Designed a neural network based observer policy capable of identifying states for which an RL agent is confused and facilitate efficient communication with an expert
 * Resulting network cuts down on episode lengths and improves episode return while minimizing expert queries
 

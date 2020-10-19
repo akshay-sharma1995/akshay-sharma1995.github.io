@@ -19,3 +19,5 @@ Advisor: Prof. Anurag Mittal, Computer Vision Lab, IIT Madras, India
 
 | Ground Truth                                                | Our Result                                                   |
 | <img src="/images/vsr_gt.png" width="150%" height="200%" /> | <img src="/images/vsr_our.png" width="150%" height="200%" /> |
+
+* This work was accepted at Winter Conference on Applications of Computer Vision (WACV 2020). The paper is available [here](https://openaccess.thecvf.com/content_WACV_2020/papers/Singh_High-Frequency_Refinement_for_Sharper_Video_Super-Resolution_WACV_2020_paper.pdf)

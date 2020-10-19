@@ -7,7 +7,10 @@ permalink: /projects/04_let_it_flow
 collection: projects
 ---
 Advisor: Prof. Amir Barati Farimani, Mechanical Engineering, Carnegie Mellon University
+### Network Architecture for GAN based Optical Flow Estimator
+![Network](/images/GAN_optical_flow.png)
+
 * Designed architectures for GAN and VAE based optical flow estimators with an image pair conditioned generator.
 * Compiled a comparative study of the above methods with the commonly used auto-encoder based optical flow estimators
 
-The project report can be downloaded from <a href="/files/let_it_flow.pdf">here</a>.
+* The project report can be downloaded from <a href="/files/let_it_flow.pdf">here</a>.
