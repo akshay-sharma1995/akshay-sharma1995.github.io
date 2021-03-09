@@ -17,7 +17,7 @@ Before that I did my Bachelors in Mechanical Engineering at IIT Kanpur, India.
 I am very passionate about working in machine learning, computer vision, and reinforcement learning, and want to use my experience and skills in these fields to work on some real world projects which can be used in the near future.
 
 ## Current work
-I am working as a Research Extern at the Advanced Agent Robotics Technology Lab at Carnegie Mellon University. There I am working on developing a Visual Dialog Based Search and Rescue Agent.
+I am working as a Research Associate at the Advanced Agent Robotics Technology Lab at Carnegie Mellon University. There I am working on developing a Visual Dialog Based Search and Rescue Agent.
 
 ## Publications
 * High-Frequency Refinement for Sharper Video Super-Resolution [[Paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Singh_High-Frequency_Refinement_for_Sharper_Video_Super-Resolution_WACV_2020_paper.pdf)
